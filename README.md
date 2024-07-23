@@ -87,8 +87,8 @@ Variable importance in LOESS is assessed using R-squared values, where higher va
 
 ### Top 5 Important Variables of SVM Model
 
-![Top 5 Important Variables](![image](https://github.com/user-attachments/assets/59e1e18f-a342-4879-b328-7eff7ad280fa)
-)
+![image](https://github.com/user-attachments/assets/44b6112e-78be-4520-a013-6529420d791b)
+
 
 ## Conclusion
 Our used car price prediction project employs advanced machine learning techniques in R Studio to deliver accurate and reliable price estimates. The user-friendly application enhances transparency in the used car market, aiding buyers and sellers with informed decision-making. The best model found during this analysis was the Support Vector Machine with an R-squared value of 0.81678 after predicting the test data set.
